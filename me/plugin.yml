@@ -1,0 +1,12 @@
+main: me.iHolden.Gadgets.Gadget
+name: Gadgets
+author: iHolden
+version: 1.1
+
+commands:
+  gadget:
+    description: Open the gadget GUI.
+
+permissions:
+  gadget.use:
+    default: op
